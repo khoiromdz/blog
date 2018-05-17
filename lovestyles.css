@@ -1,11 +1,7 @@
-@charset  utf-8;
-
-/* CSS Document */
 * {
 	padding: 0;
 	margin: 0;
 }
-
 body {
 background: url('../img/romance.jpg');
 background-repeat: no-repeat;
