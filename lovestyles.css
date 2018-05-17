@@ -274,10 +274,6 @@ input[type=button] {
 .pace.pace-inactive {
   display: none;
 }
-
-/*	--------------------------------------------------
-	Reveal Modals
-	-------------------------------------------------- */
 		
 	.reveal-modal-bg { 
 		position: fixed; 
