@@ -259,7 +259,7 @@ input[type="text"]:valid:focus,input[type="text"]:valid:hover,input[type="email"
 input[type="text"]:invalid:focus,input[type="text"]:invalid:hover,input[type="email"]:invalid:focus,input[type="email"]:invalid:hover,textarea:invalid:focus,textarea:invalid:hover{border-bottom:4px solid #df6659}
 input[type="text"]:invalid:focus:not(:placeholder-shown),input[type="text"]:invalid:not(:placeholder-shown):hover,input[type="email"]:invalid:focus:not(:placeholder-shown),input[type="email"]:invalid:not(:placeholder-shown):hover,textarea:invalid:focus:not(:placeholder-shown),textarea:invalid:not(:placeholder-shown):hover{border-bottom:4px solid #df6659}
 input[type="text"]:invalid:not(:focus):not(:placeholder-shown),input[type="email"]:invalid:not(:focus):not(:placeholder-shown),textarea:invalid:not(:focus):not(:placeholder-shown){background:#f9dcd9;border-color:#f9dcd9;border-bottom-color:#df6659}
-textarea{resize:none;height:130px}
+textarea{resize:none;height:115px}
 input[type="submit"]{float:right;margin:0}
 input[type="submit"],.bt{background:#df6659;color:#FFF;cursor:pointer;text-transform:uppercase;max-width:100px;transition:background 1s;display:inline-block}
 input[type="submit"]:hover,.bt:hover{background:#c35945;color:#FFF}
