@@ -37,7 +37,7 @@ body,input[type="text"],input[type="email"],textarea,[class*="-ab"] .gd-2 .ab__l
 .ld svg{fill:#FFF}
 .ld .ds{font-size:20px;padding-top:20px}
 .ld .lg{position:absolute;left:50%;top:50vh;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%);color:#FFF;max-height:104px}
-.ld .lg svg{-webkit-animation:anim--shake 1s infinite;animation:anim--shake 1s infinite}
+.ld .lg img{-webkit-animation:anim--shake 1s infinite;animation:anim--shake 1s infinite}
 .ld .pr{height:100%;-webkit-flex:1 auto;-ms-flex:1 auto;flex:1 auto;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-justify-content:flex-start;-ms-flex-pack:start;justify-content:flex-start;-webkit-align-items:flex-end;-ms-flex-align:end;align-items:flex-end}
 .ld .pr:after,.ld .pr:before{content:'';display:block;background:rgba(0,0,0,0.3);border-bottom:3px solid rgba(255,255,255,0.5);width:0;height:30px}
 .ld .pr:nth-of-type(1):after{-webkit-animation:anim--width 8.5s 0s ease-in-out forwards;animation:anim--width 8.5s 0s ease-in-out forwards}
